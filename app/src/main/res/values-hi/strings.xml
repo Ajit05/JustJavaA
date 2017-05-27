@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="customerNamePlaceHolder">तुम्हारा नाम क्या है?</string>
+    <string name="order">ऑर्डर</string>
+    <string name="priceH">मूल्य</string>
+    <string name="quantity">मात्रा</string>
+    <string name="topping">उपरी परत</string>
+</resources>
